@@ -36,4 +36,4 @@ print("일찍이 수학을 포기한 프로그래머 지망생입니다.")
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=contribs,prs) <img width="20%" src="./tenor.gif"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=contribs,prs) <img width="27%" align="bottom" src="./tenor.gif"/>
