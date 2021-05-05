@@ -30,6 +30,6 @@ print("일찍이 수학을 포기한 프로그래머 지망생입니다.")
 
 |:ghost:|:pencil:|
 |:--:|:--:|
-|<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>|Editing, IDE, Debugging|
+|<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>|Editing, IDE, Debugging|
 |:smiling_imp:|[Dracula Theme](https://draculatheme.com/)|
 |:pencil2:|[Fira Code Retina](https://github.com/tonsky/FiraCode)|
