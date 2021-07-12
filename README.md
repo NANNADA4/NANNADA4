@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=NANNADA4&fontColor=BD93ED&fontSize=40&fontAlign=15&fontAlignY=50&desc=hello,%20tomorrow&descAlign=10.3&descAlignY=74)
 
 ```Python
-print("hello, world")
-print("일찍이 수학을 포기한 프로그래머 지망생입니다.")
+print("hello, tomorrow")
 ```
 
 <br>
