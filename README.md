@@ -5,7 +5,7 @@ print("hello, world")
 print("hello, tomorrow")
 ```
 
-<img align="bottom" src="./parade.gif"/>
+<img align="bottom" src="./amongus.gif"/>
 
 ## :two_hearts: I'm interested in... :two_hearts:
 
