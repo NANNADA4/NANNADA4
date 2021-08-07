@@ -36,8 +36,6 @@ print("hello, tomorrow")
 |<img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>|[winget](https://github.com/microsoft/winget-cli), [MSYS2](https://www.msys2.org/), [Anaconda](https://www.anaconda.com/), [Git](https://git-scm.com/)|
 |<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>|[WSL2](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)|
 
-<img width="30%" align="bottom" src="./groundpound.gif"/>
-<img width="30%" align="bottom" src="./eat.gif"/>
-<img width="30%" align="bottom" src="./skydiving.gif"/>
+<img width="50%" align="bottom" src="./groundpound.gif"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=contribs,prs)
