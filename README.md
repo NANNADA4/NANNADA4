@@ -5,6 +5,7 @@ print("hello, world")
 print("hello, tomorrow")
 ```
 
+<img align="bottom" src="./parade.gif"/>
 <br>
 
 ## :two_hearts: I'm interested in... :two_hearts:
@@ -35,6 +36,8 @@ print("hello, tomorrow")
 |<img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>|[winget](https://github.com/microsoft/winget-cli), [MSYS2](https://www.msys2.org/), [Anaconda](https://www.anaconda.com/), [Git](https://git-scm.com/)|
 |<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>|[WSL2](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)|
 
-<br>
+<img width="30%" align="bottom" src="./groundpound.gif"/>
+<img width="30%" align="bottom" src="./eat.gif"/>
+<img width="30%" align="bottom" src="./skydiving.gif"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=contribs,prs) <img width="27%" align="bottom" src="./tenor.gif"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=contribs,prs)
