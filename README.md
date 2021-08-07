@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=NANNADA4&fontColor=BD93ED&fontSize=40&fontAlign=15&fontAlignY=50&desc=hello,%20tomorrow&descAlign=10.3&descAlignY=74)
 
+<img align="bottom" src="./amongus.gif"/>
+
 ```Python
 print("hello, world")
 print("hello, tomorrow")
 ```
-
-<img align="bottom" src="./amongus.gif"/>
 
 ## :two_hearts: I'm interested in... :two_hearts:
 
