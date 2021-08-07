@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=NANNADA4&fontColor=BD93ED&fontSize=40&fontAlign=15&fontAlignY=50&desc=hello,%20tomorrow&descAlign=10.3&descAlignY=74)
 
 ```Python
-<<<<<<< HEAD
 print("hello, world")
-=======
 print("hello, tomorrow")
->>>>>>> 98fc0ef0d8b3d16900bb50d4bcd324bff8b26436
 ```
 
 <br>
