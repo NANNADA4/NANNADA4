@@ -44,6 +44,12 @@ main(List<String> args) {
 <img width="20%" align="bottom" src="./pomu.gif"/>
 <img width="10%" align="bottom" src="./pomu.gif"/>
 <img width="5%" align="bottom" src="./pomu.gif"/>
+<img width="3%" align="bottom" src="./pomu.gif"/>
+<img width="1%" align="bottom" src="./pomu.gif"/>
 </div>
 
+<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=contribs,prs)
+<img align="top" width="24%" src="./wake.gif">
+</div>
