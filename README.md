@@ -39,7 +39,7 @@ main(List<String> args) {
 |<img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>|[winget](https://github.com/microsoft/winget-cli), [MSYS2](https://www.msys2.org/), [Anaconda](https://www.anaconda.com/), [Git](https://git-scm.com/)|
 |<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>|[WSL2](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)|
 
-<div>
+<div align="center">
 <img width="30%" align="bottom" src="./groundpound.gif"/>
 <img width="20%" align="bottom" src="./pomu.gif"/>
 <img width="15%" align="bottom" src="./pomu.gif"/>
@@ -47,9 +47,18 @@ main(List<String> args) {
 <img width="7%" align="bottom" src="./pomu.gif"/>
 </div>
 
-<div>
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=prs,contributed&show_icons=true">
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANNADA4&layout=compact&theme=dracula">
 </a>
+</div>
+
+<div align="center">
+<img align="bottom" height="84px" src="./wake.gif"/>
+<img align="bottom" height="84px" src="./wake.gif"/>
+<img align="bottom" height="84px" src="./wake.gif"/>
+<img align="bottom" height="84px" src="./wake.gif"/>
+<img align="bottom" height="84px" src="./wake.gif"/>
+<img align="bottom" height="84px" src="./wake.gif"/>
 </div>
