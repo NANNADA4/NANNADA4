@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=NANNADA4&fontColor=BD93ED&fontSize=40&fontAlign=15&fontAlignY=50&desc=hello,%20tomorrow&descAlign=10.3&descAlignY=74)
 
-<img align="bottom" src="./amongus.gif"/>
+<div align="center">
+<img align="center" src="./amongus.gif" width="80%">
+</div>
 
 ```Python
 print("hello, world")
