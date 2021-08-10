@@ -53,10 +53,3 @@ main(List<String> args) {
 <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANNADA4&layout=compact&theme=dracula">
 </a>
 </div>
-
-<div>
-<img align="center" width="20%" src="./skydiving.gif">
-<img align="center" width="20%" src="./wake.gif">
-<img align="center" width="20%" src="./skydiving.gif">
-<img align="center" width="20%" src="./wake.gif">
-</div>
