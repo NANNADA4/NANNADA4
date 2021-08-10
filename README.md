@@ -39,6 +39,10 @@ main(List<String> args) {
 |<img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>|[winget](https://github.com/microsoft/winget-cli), [MSYS2](https://www.msys2.org/), [Anaconda](https://www.anaconda.com/), [Git](https://git-scm.com/)|
 |<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>|[WSL2](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)|
 
+<br>
+
+## :zany_face: What's Wrong??? :zany_face:
+
 <div align="center">
 <img width="30%" align="bottom" src="./groundpound.gif"/>
 <img width="20%" align="bottom" src="./pomu.gif"/>
