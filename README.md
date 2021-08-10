@@ -44,8 +44,7 @@ main(List<String> args) {
 <img width="20%" align="bottom" src="./pomu.gif"/>
 <img width="15%" align="bottom" src="./pomu.gif"/>
 <img width="10%" align="bottom" src="./pomu.gif"/>
-<img width="5%" align="bottom" src="./pomu.gif"/>
-<img width="3%" align="bottom" src="./pomu.gif"/>
+<img width="7%" align="bottom" src="./pomu.gif"/>
 </div>
 
 <div>
