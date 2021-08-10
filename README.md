@@ -42,10 +42,10 @@ main(List<String> args) {
 <div>
 <img width="30%" align="bottom" src="./groundpound.gif"/>
 <img width="20%" align="bottom" src="./pomu.gif"/>
+<img width="15%" align="bottom" src="./pomu.gif"/>
 <img width="10%" align="bottom" src="./pomu.gif"/>
 <img width="5%" align="bottom" src="./pomu.gif"/>
 <img width="3%" align="bottom" src="./pomu.gif"/>
-<img width="1%" align="bottom" src="./pomu.gif"/>
 </div>
 
 <div>
