@@ -59,10 +59,10 @@ main(List<String> args) {
 </div>
 
 <div align="center">
-<img align="bottom" width="15%" src="./wake.gif"/>
-<img align="bottom" width="15%" src="./wake.gif"/>
-<img align="bottom" width="15%" src="./wake.gif"/>
-<img align="bottom" width="15%" src="./wake.gif"/>
-<img align="bottom" width="15%" src="./wake.gif"/>
-<img align="bottom" width="15%" src="./wake.gif"/>
+<img align="bottom" width="16%" src="./wake.gif"/>
+<img align="bottom" width="16%" src="./wake.gif"/>
+<img align="bottom" width="16%" src="./wake.gif"/>
+<img align="bottom" width="16%" src="./wake.gif"/>
+<img align="bottom" width="16%" src="./wake.gif"/>
+<img align="bottom" width="16%" src="./wake.gif"/>
 </div>
