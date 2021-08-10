@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=NANNADA4&fontColor=BD93ED&fontSize=40&fontAlign=15&fontAlignY=50&desc=hello,%20tomorrow&descAlign=10.3&descAlignY=74)
-
 <div align="center">
 <img align="center" src="./amongus.gif" width="80%">
 </div>
 
-```Python
-print("hello, world")
-print("hello, tomorrow")
+```Dart
+main(List<String> args) {
+  print("Help!!!!!!!!!!!!!!");
+}
 ```
+
+<br>
 
 ## :two_hearts: I'm interested in... :two_hearts:
 
@@ -31,7 +33,7 @@ print("hello, tomorrow")
 |:--:|:--:|
 |<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>|Editing, IDE, Debugging|
 |:smiling_imp:|[Dracula Theme](https://draculatheme.com/)|
-|:pencil2:|[Fira Code Retina](https://github.com/tonsky/FiraCode)|
+|:pencil2:|[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)|
 |<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>|[GNU GCC, G++](https://www.msys2.org/)|
 |<img src="https://img.shields.io/badge/Java-0D86C1?style=flat-square&logo=java&logoColor=white"/>|[AdoptOpenJDK](https://adoptopenjdk.net/)|
 |<img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>|[winget](https://github.com/microsoft/winget-cli), [MSYS2](https://www.msys2.org/), [Anaconda](https://www.anaconda.com/), [Git](https://git-scm.com/)|
