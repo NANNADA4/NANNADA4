@@ -53,16 +53,16 @@ main(List<String> args) {
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=prs,contributed&show_icons=true">
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANNADA4&layout=compact&theme=dracula">
+<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=prs,contributed&show_icons=true">
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANNADA4&layout=compact&theme=dracula">
 </a>
 </div>
 
 <div align="center">
-<img align="bottom" height="84px" src="./wake.gif"/>
-<img align="bottom" height="84px" src="./wake.gif"/>
-<img align="bottom" height="84px" src="./wake.gif"/>
-<img align="bottom" height="84px" src="./wake.gif"/>
-<img align="bottom" height="84px" src="./wake.gif"/>
-<img align="bottom" height="84px" src="./wake.gif"/>
+<img align="bottom" width="15%" src="./wake.gif"/>
+<img align="bottom" width="15%" src="./wake.gif"/>
+<img align="bottom" width="15%" src="./wake.gif"/>
+<img align="bottom" width="15%" src="./wake.gif"/>
+<img align="bottom" width="15%" src="./wake.gif"/>
+<img align="bottom" width="15%" src="./wake.gif"/>
 </div>
