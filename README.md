@@ -47,8 +47,15 @@ main(List<String> args) {
 <img width="7%" align="bottom" src="./pomu.gif"/>
 </div>
 
-<div>
+<div align="top">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=contribs,prs)
-<img align="top" width="24%" src="./wake.gif">
+![NANNADA4's GitHub stats](https://github-readme-stats.vercel.app/api?username=NANNADA4&theme=dracula&icons=true&hide=prs,contributed&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NANNADA4&layout=compact&theme=dracula)](https://github.com/NANNADA4/github-readme-stats)
+</div>
+
+<div align="center">
+<img align="center" width="20%" src="./skydiving.gif">
+<img align="center" width="20%" src="./wake.gif">
+<img align="center" width="20%" src="./skydiving.gif">
+<img align="center" width="20%" src="./wake.gif">
 </div>
