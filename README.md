@@ -34,10 +34,8 @@ main(List<String> args) {
 |<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>|Editing, IDE, Debugging|
 |:smiling_imp:|[Dracula Theme](https://draculatheme.com/)|
 |:pencil2:|[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)|
-|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>|[GNU GCC, G++](https://www.msys2.org/)|
-|<img src="https://img.shields.io/badge/Java-0D86C1?style=flat-square&logo=java&logoColor=white"/>|[AdoptOpenJDK](https://adoptopenjdk.net/)|
-|<img src="https://img.shields.io/badge/WindowsTerminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>|[winget](https://github.com/microsoft/winget-cli), [MSYS2](https://www.msys2.org/), [Anaconda](https://www.anaconda.com/), [Git](https://git-scm.com/)|
-|<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>|[WSL2](https://docs.microsoft.com/ko-kr/windows/wsl/install-win10)|
+|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>|Clang|
+|<img src="https://img.shields.io/badge/Java-0D86C1?style=flat-square&logo=java&logoColor=white"/>|[ZuluOpenJDK](https://www.azul.com/downloads/?package=jdk)|
 
 <br>
 
