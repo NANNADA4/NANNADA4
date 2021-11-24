@@ -42,11 +42,12 @@ main(List<String> args) {
 ## :zany_face: What's Wrong??? :zany_face:
 
 <div align="center">
-<img width="30%" align="bottom" src="./groundpound.gif"/>
-<img width="20%" align="bottom" src="./pomu.gif"/>
-<img width="15%" align="bottom" src="./pomu.gif"/>
-<img width="10%" align="bottom" src="./pomu.gif"/>
-<img width="7%" align="bottom" src="./pomu.gif"/>
+<img width="15%" align="bottom" src="./mollu.gif"/>
+<img width="15%" align="bottom" src="./mollu.gif"/>
+<img width="15%" align="bottom" src="./mollu.gif"/>
+<img width="15%" align="bottom" src="./mollu.gif"/>
+<img width="15%" align="bottom" src="./mollu.gif"/>
+<img width="15%" align="bottom" src="./mollu.gif"/>
 </div>
 
 <div align="center">
