@@ -8,35 +8,6 @@ main(List<String> args) {
 
 <br>
 
-## :two_hearts: I'm interested in... :two_hearts:
-
-- Web Programming
-- M/L
-- etc... (Actually, I don't know myself)
-
-<br>
-
-## :eyes: Techs that I've used at least once :eyes:
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-0D86C1?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/R-2365B7?style=flat-square&logo=R&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-DD4B25?style=flat-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>  <img src="https://img.shields.io/badge/Octave / Matlab-0790C0?style=flat-square&logo=Octave&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Dart-035597?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-50BFF1?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092D1F?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=Flask&logoColor=black"/>
-
-<br>
-
-## :wrench: Tools that I'm using :wrench:
-
-|:ghost:|:pencil:|
-|:--:|:--:|
-|<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>|Editing, IDE, Debugging|
-|:smiling_imp:|[Dracula Theme](https://draculatheme.com/)|
-|:pencil2:|[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)|
-|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>|Clang|
-|<img src="https://img.shields.io/badge/Java-0D86C1?style=flat-square&logo=java&logoColor=white"/>|[OpenJDK](https://openjdk.java.net)|
-
-<br>
-
 ## :zany_face: What's Wrong??? :zany_face:
 
 <div align="center">
