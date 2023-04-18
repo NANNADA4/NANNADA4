@@ -8,7 +8,7 @@ main(List<String> args) {
 
 <br>
 
-## :zany_face: What's Wrong??? :zany_face:
+## :zany_face:
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
